@@ -20,13 +20,12 @@ SoundBeep, 400, 200
 ;          / /_/ / /_/ / /| |/ /  __/ /_/ /  
 ;         /_____/\__,_/_/ |___/\___/\__,_/   
 key_stay_on := "Up"
-key_hold_mode := "F2"
-key_hold_mode2 := "F3" 
+key_hold_mode := "F9"
+key_hold_mode2 := "F10" 
 key_fastclick := "Ins"
 key_off := "Down"
 key_gui_hide := "Home"
 key_exit := "End"
-key_hold := "RButton"
  
 
 pixel_box := 2
