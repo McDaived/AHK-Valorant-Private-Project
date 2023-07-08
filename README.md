@@ -17,6 +17,3 @@ Not Safe But Undetectable
 * hide gui : **Home**
 
 * exit : **End**
-
-* key hold : **Right Click**
-
