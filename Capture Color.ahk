@@ -13,27 +13,29 @@ SendMode Input
 CoordMode, Pixel, Screen
 SoundBeep, 300, 200
 SoundBeep, 400, 200
-               
+
 ;             ____        _                __
 ;            / __ \____ _(_)   _____  ____/ /
 ;           / / / / __ `/ / | / / _ \/ __  / 
 ;          / /_/ / /_/ / /| |/ /  __/ /_/ /  
-;         /_____/\__,_/_/ |___/\___/\__,_/   
+;         /_____/\__,_/_/ |___/\___/\__,_/
+
 key_stay_on := "Up"
-key_hold_mode := "F9"
-key_hold_mode2 := "F10" 
+key_hold_mode := "F2"
+key_hold_mode2 := "F3" 
 key_fastclick := "Ins"
 key_off := "Down"
 key_gui_hide := "Home"
 key_exit := "End"
- 
+key_hold := "RButton"
+
 
 pixel_box := 2
 pixel_sens := 58
 pixel_color := 0xFFFF00
 tap_time := 120
 tap_time2 := 5 
- 
+
 
 Gui,2:Font,Cdefault,Fixedsys
 Gui,2:Color,Black
